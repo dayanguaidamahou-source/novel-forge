@@ -15,10 +15,10 @@
 前提：仓库是 **public**。
 
 1. 打开 SillyTavern，点顶部的「扩展」（Extensions）图标。
-2. 在 **Install Extension** 的输入框里粘贴仓库地址，例如：
+2. 在 **Install Extension** 的输入框里粘贴仓库地址：
 
    ```
-   https://github.com/你的用户名/novel-forge
+   https://github.com/dayanguaidamahou-source/novel-forge
    ```
 
 3. 点 **Install**，等它克隆完，刷新页面（Ctrl+F5）。
