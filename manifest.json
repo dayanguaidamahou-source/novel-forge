@@ -1,0 +1,15 @@
+{
+  "display_name": "墨改 · 小说工坊",
+  "name": "novel-forge",
+  "id": "novel-forge",
+  "type": "extension",
+  "loading_order": 100,
+  "requires": [],
+  "optional": [],
+  "js": "index.js",
+  "css": "style.css",
+  "author": "墨改",
+  "version": "1.0.0",
+  "homePage": "",
+  "auto_update": false
+}
